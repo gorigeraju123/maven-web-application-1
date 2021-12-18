@@ -92,7 +92,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Idexcel Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.206.147.226:8081/repository/maven-snapshots/</url>
+	      <url>http://15.206.147.226:8081/repository/web-snapshot/</url>
 	    </snapshotRepository>
        </distributionManagement>    
         <build>
